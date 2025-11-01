@@ -1,0 +1,16 @@
+{
+  "session_id": "11996555-33f3-491d-b19f-545335bd2e76",
+  "prompts": [
+    "Debug the Tailwind implementation. All the code in this codebase should be client-side only. ",
+    "[plugin:vite:css] [postcss] It looks like you're trying to use `tailwindcss` directly as a PostCSS plugin. The PostCSS plugin has moved to a separate package, so to continue using Tailwind CSS with PostCSS you'll need to install `@tailwindcss/postcss` and update your PostCSS configuration.",
+    "Rebuild the React Tailwind invite project to ensure that it's only client-side re-initialized Tailwind. ",
+    "use crawl4ai to recurseively scrape https://larsonlawutah.com/ and all routes",
+    "use crwl, its already installed",
+    "Integrate these pages into the current website. Ensure consistent design direction. Also, get this design direction and design tokens from this scraped data. ",
+    "show me the dev server",
+    "Update the nav bar to show the newly built pages. ",
+    "[Image #1]\n\nscrape these images and integrate into the site. use crwl",
+    "/var/folders/gy/574p89h16mj752hpgdk6_q880000gn/T/TemporaryItems/NSIRD_screencaptureui_bj7Iuk/Screenshot\\ 2025-11-01\\ at\\ 4.55.28\u202fPM.png [I",
+    "commit and push changes"
+  ]
+}
