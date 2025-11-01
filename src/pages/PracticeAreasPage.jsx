@@ -6,7 +6,7 @@ const PracticeAreasPage = () => {
       title: "Automobile Injuries",
       description: "Occasionally, a claim requires a demand for punitive damages. Insurance does not pay for punitive damages. Nevertheless, a claim for punitive damages can be an effective way to cause the insurance carrier to provide more complete and thorough justice for the victim.",
       href: "/automobile-injuries",
-      image: "/images/practice-areas/automobile-injuries.jpg"
+      image: "/images/practice-areas/car-accident.jpg"
     },
     {
       title: "Aviation Injuries", 
@@ -17,42 +17,50 @@ const PracticeAreasPage = () => {
     {
       title: "Back and Spinal Cord Injuries",
       description: "We will consult and work with your medical specialists to determine the extent of your injuries and your prognosis for recovery. Through our extensive investigation and use of widely respected experts, we can obtain the maximum recovery available to you.",
-      href: "/back-and-spinal-injuries"
+      href: "/back-and-spinal-injuries",
+      image: "/images/practice-areas/medical-malpractice.jpg"
     },
     {
       title: "Boat Injuries",
       description: "At Larson Law, we are experienced with boating injuries. If you are involved in a boating accident in Utah, we can help. We can obtain appropriate compensation for you from the negligent parties.",
-      href: "/boat-injuries"
+      href: "/boat-injuries",
+      image: "/images/practice-areas/slip-and-fall.jpg"
     },
     {
       title: "Brain Injuries",
       description: "Brain injuries can have devastating and long-lasting effects. Our experienced attorneys understand the complexities of traumatic brain injury cases and work tirelessly to secure the compensation you need for medical care and rehabilitation.",
-      href: "/brain-injuries"
+      href: "/brain-injuries",
+      image: "/images/practice-areas/brain-injuries.jpg"
     },
     {
       title: "Burn Injuries",
       description: "Severe burn injuries often require extensive medical treatment and rehabilitation. We help victims of burn injuries pursue compensation for medical expenses, pain and suffering, and lost wages.",
-      href: "/burn-injuries"
+      href: "/burn-injuries",
+      image: "/images/practice-areas/medical-malpractice.jpg"
     },
     {
       title: "Catastrophic Injuries",
       description: "Catastrophic injuries change lives forever. Our attorneys have experience handling complex cases involving severe, life-altering injuries that require ongoing medical care and support.",
-      href: "/catastrophic-injuries"
+      href: "/catastrophic-injuries",
+      image: "/images/practice-areas/brain-injuries.jpg"
     },
     {
       title: "Construction Site Injuries",
       description: "Construction sites present numerous hazards. If you've been injured on a construction site, we can help you navigate workers' compensation claims and potential third-party liability cases.",
-      href: "/construction-injuries"
+      href: "/construction-injuries",
+      image: "/images/practice-areas/construction-injuries.jpg"
     },
     {
       title: "Medical Malpractice",
       description: "When medical professionals fail to provide the standard of care, patients can suffer serious harm. We help victims of medical negligence seek justice and compensation for their injuries.",
-      href: "/medical-malpractice"
+      href: "/medical-malpractice",
+      image: "/images/practice-areas/medical-malpractice.jpg"
     },
     {
       title: "Wrongful Death",
       description: "The loss of a loved one due to someone else's negligence is devastating. We compassionately guide families through wrongful death claims to seek justice and financial security.",
-      href: "/wrongful-death"
+      href: "/wrongful-death",
+      image: "/images/practice-areas/wrongful-death.jpg"
     }
   ];
 

@@ -11,6 +11,11 @@
     "Update the nav bar to show the newly built pages. ",
     "[Image #1]\n\nscrape these images and integrate into the site. use crwl",
     "/var/folders/gy/574p89h16mj752hpgdk6_q880000gn/T/TemporaryItems/NSIRD_screencaptureui_bj7Iuk/Screenshot\\ 2025-11-01\\ at\\ 4.55.28\u202fPM.png [I",
-    "commit and push changes"
+    "commit and push changes",
+    "use gh cli to initialise a repository and push",
+    "push to vercel, use the cli",
+    "perform comperehensive design qa",
+    "run the local dev server and validate locally first",
+    "grab all the assets for practice areas from the old website, use crwl with the bfs tag. update the site with these new assets"
   ]
 }
